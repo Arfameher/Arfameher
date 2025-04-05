@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Arfa
 
 
-- 🔭 I’m currently working as a Junior Data Scientist at Becode in Belgium
 - 🌱 I’m currently learning new technologies in the field of Data Scientist.
 - 👯 I’m looking to collaborate on related projects.
 - 🤔 I’m looking for help with some nice proejcts to get started with for my portfolio.
