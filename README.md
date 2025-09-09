@@ -1,16 +1,28 @@
-### Hi there 👋 I'm Arfa
+<p align="center">
+  <!-- Animated greeting -->
+  <img src="https://capsule-render.vercel.app/api?text=Hey+There+!&animation=fadeIn&type=waving&color=gradient&height=100" />
+</p>
 
+<!-- Banner image -->
+<p align="center">
+  <img src="https://github.com/Arfameher/Arfameher/blob/main/banner.png" alt="Banner" />
+</p>
 
-- 🌱 I’m currently learning new technologies in the field of Data Scientist.
-- 👯 I’m looking to collaborate on related projects.
-- 🤔 I’m looking for help with some nice proejcts to get started with for my portfolio.
-- 💬 Ask me about anything related to the current topics and technologies used in Data Science world and I'm hoping to help you out!
-- 📫 How to reach me: arfaameher@outlook.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Love sitting under the sky and admiring everything about it.
+### Hi, I'm Arfa Meher! 👩‍💻
+A passionate [role/type] specializing in [focus areas]. I enjoy [interests or fun fact].
 
+#### 🛠 Tech Stack
+<p>
+  <img src="..." alt="JavaScript" width="40" />
+  <img src="..." alt="Python" width="40" />
+  ...
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arfameher&show_icons=true&theme=radical)
+#### 📊 GitHub Stats
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arfameher&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arfameher)](https://github.com/anuraghazra/github-readme-stats)
+#### 🐍 Contribution Snake
+![snake animation](https://github.com/Arfameher/Arfameher/blob/output/github-contribution-grid-snake.svg)
 
+#### 👀 Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/Arfameher/count.svg)
